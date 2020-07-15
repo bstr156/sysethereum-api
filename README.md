@@ -1,2 +1,2 @@
 # sysethereum-api
-API for basic Sysethereum functionality
+Nodejs API for basic Sysethereum functionality
