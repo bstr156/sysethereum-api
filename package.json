@@ -1,0 +1,23 @@
+{
+  "name": "sysethereum-api",
+  "version": "0.0.1",
+  "description": "API for basic Sysethereum functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bstr156/sysethereum-api.git"
+  },
+  "keywords": [
+    "syscoin",
+    "sysethereum"
+  ],
+  "author": "Bradley Stephenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bstr156/sysethereum-api/issues"
+  },
+  "homepage": "https://github.com/bstr156/sysethereum-api#readme"
+}
